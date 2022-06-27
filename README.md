@@ -30,3 +30,6 @@ changed footer "h2" in html and css to "h4" to allow heading attributes to fall 
 changed "div" for the navigational links into "nav"
 
 changed the css ".header div" sections to new corresponding ".header nav" sections
+
+compressed sections of the css that were performing the same function into one block
+(content image styling, content header styling, and sidebar styling)
