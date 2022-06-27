@@ -3,12 +3,15 @@
 ![Homepage Screenshot](/assets/images/homepage-screenshot.png "Homepage Screenshot")
 
 
+HTML and CSS challenge week one refactoring code for the Horiseon website home page
+
+<h2>View Webpage</h2>
 
 https://nofutofu.github.io/horiseon-home-challenge/
 
 
+<h2>Change Log</h2>
 
-HTML and CSS challenge week one refactoring code for the Horiseon website home page
 
 added a title to the webpage
 
@@ -27,5 +30,3 @@ changed footer "h2" in html and css to "h4" to allow heading attributes to fall 
 changed "div" for the navigational links into "nav"
 
 changed the css ".header div" sections to new corresponding ".header nav" sections
-
-added an id for "search-engine-optimization" for the navigation link to operate correctly
